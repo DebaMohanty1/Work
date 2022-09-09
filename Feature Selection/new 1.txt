@@ -1,0 +1,8 @@
+Intro to feature selection methods
+
+Key Takeaway points:
+1. Improves Model Accuracy.
+2. Used to avoid the curse of dimensionality.
+3. Model simplification which makes them easier to interpret.
+4. Reduces the training time.
+5. Improves data's compatibility with learning model class.
