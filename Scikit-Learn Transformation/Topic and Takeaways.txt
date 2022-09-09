@@ -1,0 +1,7 @@
+Webinar topic:
+Data Transformation using Scikit-learn
+
+Key Take away points:
+1. Caters to need of certain ML algorithms which require data to be normally distributed.
+2. Improves Model accuracy.
+3. Use of Various transformation in Scikit-learn package.
